@@ -1,3 +1,8 @@
+body {
+  font-size: 20px;
+  font-family: 'Mina', sans-serif;
+}
+
 .train {
   position: relative;
   cursor: pointer;
